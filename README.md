@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there 👋
+I'm Roni Sikder, a passionate and creative Front-End Developer from Bangladesh.
+I love building clean, responsive, and user-friendly websites that bring ideas to life!
 
-<!--
-**amit-hasan7788/Amit-hasan7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🔭 I’m currently working on building modern, interactive websites using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced JavaScript, React.js, and web animations to enhance user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on creative front-end projects and open-source web development.
+
+🤔 I’m looking for help with mastering modern frameworks like React and Next.js.
+
+💬 Ask me about HTML, CSS, JavaScript basics, and responsive design techniques.
+
+📫 How to reach me: [Your Email or LinkedIn link here]
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I believe learning to code is like building a superpower! 🚀
+
+🛠️ Skills
+HTML5, CSS3, JavaScript (ES6+)
+
+Responsive Web Design
+
+Git & GitHub
+
+Basic UI/UX Design
+
+Front-End Frameworks (learning React)
+
